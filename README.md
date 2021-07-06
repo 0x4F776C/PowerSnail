@@ -1,4 +1,5 @@
 # PowerSnail
+PowerShell alternative/restriction bypass 
 
 ## What's the purpose?
 Allow the usage of PowerShell scripts/commands/cmdlets even if it's in the application blacklist
