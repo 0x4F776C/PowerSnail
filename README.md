@@ -1,5 +1,5 @@
 # PowerSnail
-PowerShell alternative/restriction bypass*
+PowerShell alternative/restriction bypass
 
 ## What's the purpose?
 Allow the usage of PowerShell scripts/commands/cmdlets even if it's in the application blacklist
@@ -22,6 +22,6 @@ Scenario: I want to run Invoke-AllChecks (PowerUp.ps1 kit) in the target system.
 
 *Output should look like this...*
 
-![Example Image](https://github.com/0x4F776C/PowerSnail/blob/master/example.PNG)
+![Example Image](https://github.com/0x4F776C/PowerSnail/blob/main/example.PNG)
 
 *Feel free to use it for any engagement or exercises*
