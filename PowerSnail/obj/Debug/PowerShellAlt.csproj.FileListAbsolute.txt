@@ -1,0 +1,10 @@
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\bin\Debug\PowerShellAlt.exe.config
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\bin\Debug\PowerShellAlt.exe
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\bin\Debug\PowerShellAlt.pdb
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\obj\Debug\PowerShellAlt.Form1.resources
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\obj\Debug\PowerShellAlt.Properties.Resources.resources
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\obj\Debug\PowerShellAlt.csproj.GenerateResource.cache
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\obj\Debug\PowerShellAlt.csproj.CoreCompileInputs.cache
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\obj\Debug\PowerShellAlt.exe
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\obj\Debug\PowerShellAlt.pdb
+C:\Users\leech\Desktop\Programming\C#\PowerShellAlt\PowerShellAlt\obj\Debug\PowerShellAlt.csprojAssemblyReference.cache

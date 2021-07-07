@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerSnail", "PowerSnail.csproj", "{CD5F950B-8A83-4924-A0FC-E8F2DBDB38AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5F950B-8A83-4924-A0FC-E8F2DBDB38AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5F950B-8A83-4924-A0FC-E8F2DBDB38AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5F950B-8A83-4924-A0FC-E8F2DBDB38AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5F950B-8A83-4924-A0FC-E8F2DBDB38AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB8B57F-A284-4A87-805F-B72F2F4DC07F}
+	EndGlobalSection
+EndGlobal
