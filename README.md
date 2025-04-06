@@ -1,4 +1,6 @@
-<!-- display-subdirectories: false -->
+<!--
+display-subdirectories: false
+-->
 
 # PowerSnail
 PowerShell alternative/restriction bypass
