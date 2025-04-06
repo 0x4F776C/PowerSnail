@@ -1,9 +1,7 @@
-<!--
-display-subdirectories: false
--->
-
 # PowerSnail
 PowerShell alternative/restriction bypass
+
+<!-- display-subdirectories: false -->
 
 ## What's the purpose?
 Allow the usage of PowerShell scripts/commands/cmdlets even if it's in the application blacklist
